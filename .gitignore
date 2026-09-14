@@ -1,0 +1,55 @@
+# ---- Project documents (keep out of the repo) ----
+*.pdf
+*.docx
+*.pptx
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- Secrets & credentials ----
+.env
+.env.*
+*credentials*
+*secrets*
+*.pem
+*.key
+*.crt
+*password*
+
+# ---- Logs ----
+*.log
+logs/
+
+# ---- Zabbix / Prometheus / ELK local data & runtime files ----
+**/data/
+**/snapshots/
+*.pid
+*.rdb
+
+# ---- Terraform / Vagrant (if used for the VM lab) ----
+.vagrant/
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# ---- Python (if any automation scripts) ----
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ---- Node (if any tooling/dashboards) ----
+node_modules/
+
+# ---- Archives ----
+*.zip
+*.tar.gz
+*.rar
