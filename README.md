@@ -79,8 +79,8 @@ Each `mission-XX/` folder contains its own `README.md` with setup steps, configu
 Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/SecuEnterprise.git
-cd SecuEnterprise
+git clone https://github.com/mugire-can/secuenterprise
+cd secuEnterprise
 ```
 
 Follow the mission folders in order — each one documents the exact steps taken, commands used, and validation performed.
