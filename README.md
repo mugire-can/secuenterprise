@@ -34,7 +34,7 @@ The mission is broken down into 9 progressive stages, each building toward a com
 
 | # | Mission | Status |
 |---|---|---|
-| 01 | Zabbix installation & host monitoring (CPU/RAM/Disk) | ⬜ |
+| 01 | Zabbix installation & host monitoring (CPU/RAM/Disk) | x |
 | 02 | Prometheus installation & scrape jobs | ⬜ |
 | 03 | Grafana installation & Prometheus dashboards | ⬜ |
 | 04 | Zabbix alert triggers & email notifications | ⬜ |
@@ -80,7 +80,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/mugire-can/secuenterprise
-cd secuEnterprise
+cd secuenterprise
 ```
 
 Follow the mission folders in order — each one documents the exact steps taken, commands used, and validation performed.
