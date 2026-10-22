@@ -41,7 +41,7 @@ The mission is broken down into 9 progressive stages, each building toward a com
 | 05 | ELK Stack: Logstash pipelines, Kibana dashboards, Elasticsearch Watcher | ✅ |
 | 06 | Wireshark packet capture & suspicious traffic analysis | ✅ |
 | 07 | Log analysis & trend visualization with Kibana | ✅ |
-| 08 | Incident response playbooks (Borg intrusion, Klingon sabotage scenarios) | ⬜ |
+| 08 | Incident response playbooks (Borg intrusion, Klingon sabotage scenarios) | ✅ |
 | 09 | TheHive + MISP installation & IoC sharing | ⬜ |
 
 *(Checkboxes will be updated to ✅ as each mission is completed and validated.)*
